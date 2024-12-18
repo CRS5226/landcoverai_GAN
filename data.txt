@@ -1,0 +1,15 @@
+for 2048 images:
+Recommendations:
+Best for Detail (Entropy):
+
+resrgan_image.jpg or upscaled_image_diffusion.jpg: These images have the highest entropy (6.536) and maintain reasonable sharpness/focus (424.65). Ideal if detail retention is critical.
+Best for Clarity (Sharpness/Focus):
+
+SwinIR.png: This image outperforms others in sharpness (510.74) and focus, indicating superior clarity. Slightly lower entropy (6.464) suggests a small trade-off in detail.
+Best All-Round Performer:
+
+resrgan_image.jpg or upscaled_image_diffusion.jpg: These provide a strong balance between high entropy (6.536) and sharpness/focus (424.65).
+Conclusion:
+For maximum detail and sharpness, choose: SwinIR.png.
+For balanced enhancement, choose: resrgan_image.jpg or upscaled_image_diffusion.jpg.
+
