@@ -1,3 +1,8 @@
+
+all weights link for super resolution:
+https://drive.google.com/drive/folders/1OAJbeXQlP6d2uqxZuuvJWwGla5piImMc
+
+
 for 2048 images:
 Recommendations:
 Best for Detail (Entropy):
